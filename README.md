@@ -9,8 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardomss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardomss&layout=compact&langs_count=16&theme=dark"/>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=franciscpd&label=Total%20de%20visualizações&color=0e75b6&style=flat" alt="franciscpd" /> 
-<a 
+
 
   
 <div style="display: inline_block"><br>
